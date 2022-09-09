@@ -5,5 +5,5 @@
 [<img src="https://img.shields.io/badge/-MyAnimeList-00008B?style=for-the-badge&logo=myanimelist&logoColor=white&logoWidth=15">](https://myanimelist.net/profile/SKT_Blackspell13)
 
 
-- 👀 I’m interested in programming, anime and video games.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in programming, anime and video games
+- 🌱 I’m currently learning C++
